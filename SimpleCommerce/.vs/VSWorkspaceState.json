@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\E-Commerce",
+    "\\E-Commerce.DAL",
+    "\\E-Commerce.DAL\\DALContext",
+    "\\E-Commerce\\Controllers",
+    "\\E-Commerce\\Views",
+    "\\E-Commerce\\Views\\Orders",
+    "\\E-Commerce\\Views\\Payment",
+    "\\E-Commerce\\Views\\Shared",
+    "\\E-Commerce\\Views\\Shared\\Components",
+    "\\E-Commerce\\Views\\Shared\\Components\\ShoppingCartSummary"
+  ],
+  "SelectedNode": "\\E-Commerce\\Views\\Payment\\PaymentMethod.cshtml",
+  "PreviewInSolutionExplorer": false
+}

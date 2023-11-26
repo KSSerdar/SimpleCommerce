@@ -1,0 +1,17 @@
+C:\Users\serda\OneDrive\Masaüstü\Iyzico\E-Commerce.Shopping\bin\Debug\net6.0\E-Commerce.Shopping.deps.json
+C:\Users\serda\OneDrive\Masaüstü\Iyzico\E-Commerce.Shopping\bin\Debug\net6.0\E-Commerce.Shopping.dll
+C:\Users\serda\OneDrive\Masaüstü\Iyzico\E-Commerce.Shopping\bin\Debug\net6.0\E-Commerce.Shopping.pdb
+C:\Users\serda\OneDrive\Masaüstü\Iyzico\E-Commerce.Shopping\bin\Debug\net6.0\E-Commerce.Core.dll
+C:\Users\serda\OneDrive\Masaüstü\Iyzico\E-Commerce.Shopping\bin\Debug\net6.0\E-Commerce.DAL.dll
+C:\Users\serda\OneDrive\Masaüstü\Iyzico\E-Commerce.Shopping\bin\Debug\net6.0\E-Commerce.Core.pdb
+C:\Users\serda\OneDrive\Masaüstü\Iyzico\E-Commerce.Shopping\bin\Debug\net6.0\E-Commerce.DAL.pdb
+C:\Users\serda\OneDrive\Masaüstü\Iyzico\E-Commerce.Shopping\obj\Debug\net6.0\E-Commerce.Shopping.csproj.AssemblyReference.cache
+C:\Users\serda\OneDrive\Masaüstü\Iyzico\E-Commerce.Shopping\obj\Debug\net6.0\E-Commerce.Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\OneDrive\Masaüstü\Iyzico\E-Commerce.Shopping\obj\Debug\net6.0\E-Commerce.Shopping.AssemblyInfoInputs.cache
+C:\Users\serda\OneDrive\Masaüstü\Iyzico\E-Commerce.Shopping\obj\Debug\net6.0\E-Commerce.Shopping.AssemblyInfo.cs
+C:\Users\serda\OneDrive\Masaüstü\Iyzico\E-Commerce.Shopping\obj\Debug\net6.0\E-Commerce.Shopping.csproj.CoreCompileInputs.cache
+C:\Users\serda\OneDrive\Masaüstü\Iyzico\E-Commerce.Shopping\obj\Debug\net6.0\E-Commerce.Shopping.csproj.CopyComplete
+C:\Users\serda\OneDrive\Masaüstü\Iyzico\E-Commerce.Shopping\obj\Debug\net6.0\E-Commerce.Shopping.dll
+C:\Users\serda\OneDrive\Masaüstü\Iyzico\E-Commerce.Shopping\obj\Debug\net6.0\refint\E-Commerce.Shopping.dll
+C:\Users\serda\OneDrive\Masaüstü\Iyzico\E-Commerce.Shopping\obj\Debug\net6.0\E-Commerce.Shopping.pdb
+C:\Users\serda\OneDrive\Masaüstü\Iyzico\E-Commerce.Shopping\obj\Debug\net6.0\ref\E-Commerce.Shopping.dll
